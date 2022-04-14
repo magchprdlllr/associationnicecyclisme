@@ -1,0 +1,10 @@
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+h2 {
+    color: darkcyan;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
